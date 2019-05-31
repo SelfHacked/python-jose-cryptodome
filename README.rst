@@ -49,10 +49,10 @@ Thanks
 
 This library was originally based heavily on the work of the folks over at PyJWT_.
 
-.. |Build Status| image:: https://travis-ci.org/capless/python-jose-cryptodome.svg?branch=master
-   :target: https://travis-ci.org/capless/python-jose-cryptodome
-.. |Coverage Status| image:: http://codecov.io/github/capless/python-jose-cryptodome/coverage.svg?branch=master
-   :target: http://codecov.io/github/capless/python-jose-cryptodome?branch=master
+.. |Build Status| image:: https://travis-ci.org/SelfHacked/python-jose-cryptodome.svg?branch=master
+   :target: https://travis-ci.org/SelfHacked/python-jose-cryptodome
+.. |Coverage Status| image:: https://coveralls.io/repos/github/SelfHacked/python-jose-cryptodome/badge.svg?branch=master
+   :target: https://coveralls.io/github/SelfHacked/python-jose-cryptodome?branch=master
 .. |Docs| image:: https://readthedocs.org/projects/python-jose/badge/
    :target: https://python-jose.readthedocs.org/en/latest/
 .. _ReadTheDocs: https://python-jose.readthedocs.org/en/latest/
